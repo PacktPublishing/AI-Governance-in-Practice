@@ -98,9 +98,9 @@ Written by Hemang Doshi, who has more than 20 years of experience in system audi
 
 
 <details> 
-  <summary><h2>Get to know Authors</h2></summary>
+  <summary><h2>Get to know Author</h2></summary>
 
-_Hemang Doshi_ Hemang Doshi has more than 15 years of experience in the field of system audit, IT risk and compliance, internal audit, risk management, information security audit, third-party risk management, and operational risk management. He has authored several books for certifications such as CISA, CRISC, CISM, DISA, CEH, and enterprise risk management. His books and lectures are sold in more than 175 countries and in more than 35 languages.
+_Hemang Doshi_ has more than 15 years of experience in the field of system audit, IT risk and compliance, internal audit, risk management, information security audit, third-party risk management, and operational risk management. He has authored several books for certifications such as CISA, CRISC, CISM, DISA, CEH, and enterprise risk management. His books and lectures are sold in more than 175 countries and in more than 35 languages.
 
 
 
