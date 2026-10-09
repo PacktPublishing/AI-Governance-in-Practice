@@ -105,10 +105,4 @@ _Hemang Doshi_ Hemang Doshi has more than 15 years of experience in the field of
 
 
 </details>
-<details> 
-  <summary><h2>Other Related Books</h2></summary>
-<ul>
- 
-</ul>
 
-</details>
